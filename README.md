@@ -32,7 +32,7 @@ Here are the inputs with their corresponding colours:-
 
 To stop mid-game, simply enter "q".
 
-# Future developments (If I have the time to do so)
+# Planned features (If I have the time to do so)
 
 * Cleaning up my source code
 * GUI (maybe)
