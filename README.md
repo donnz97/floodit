@@ -32,3 +32,10 @@ Here are the inputs with their corresponding colours:-
 
 To stop mid-game, simply enter "q".
 
+# Future developments (If I have the time to do so)
+
+* GUI (maybe)
+* Following the GUI implementation, a complete overhaul on the gameplay (especially the input), just like the one on the web
+* More colours, maybe?
+* Difficulty setting
+* And more...
