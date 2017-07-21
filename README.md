@@ -10,7 +10,7 @@ Link to Flood-it on the web: http://unixpapa.com/floodit/
 1. The game runs on Ruby, so make sure to have Ruby installed on your machine.
     Link to Ruby downloads (follow install instructions based on OS): https://www.ruby-lang.org/en/downloads/
 
-2. On the command prompt, input the following:
+2. On the command prompt, input the following at the directory of the game:
     ```
     ruby floodit.rb
     ```
