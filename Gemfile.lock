@@ -4,6 +4,7 @@ GEM
     colorize (0.8.1)
     console_splash (2.0.1)
       colorize
+    shoes (3.0.1)
 
 PLATFORMS
   ruby
@@ -12,6 +13,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   console_splash
+  shoes
 
 BUNDLED WITH
-   1.13.6
+   1.15.2
