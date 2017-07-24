@@ -157,6 +157,4 @@ def flood(board, newColor, oldColor, i, j, width, height)
   return board
 end      
 
-# TODO: Implement everything else as described in the
-#       assignment brief.
 menu
